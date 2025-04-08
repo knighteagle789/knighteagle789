@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knighteagle789
 - 👀 I’m interested in DevOps, Automation, IaC
-- 🌱 I’m currently learning Python, DevOps, IaC
+- 🌱 I’m currently learning C# (API), React, Python, DevOps, IaC
 - 💞️ I’m looking to collaborate on Python, IaC
 - 📫 How to reach me jwoods@nocowoods.com
 
